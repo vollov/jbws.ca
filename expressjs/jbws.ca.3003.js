@@ -37,5 +37,9 @@ app.get('/about', function(req,res){
 	  res.sendfile('about.html', { root: path.resolve(__dirname + '/app') });
 });
 
+app.get('/advantage', function(req,res){
+	  res.sendfile('advantage.html', { root: path.resolve(__dirname + '/app') });
+});
+
 app.listen(3003, '0.0.0.0');
 console.log("jbws.ca -- Express server listening...");

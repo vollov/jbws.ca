@@ -6,7 +6,94 @@ body {
 	margin: 0;
 }
 
-#footer {
-	height:350px;
+/*
+ * Header
+ */
+.header {
+	height:40px;
+	background:#FFFFFF;
+}
+
+.navbar-nav > li {
+	height: 50px;
+	padding: 15px;
+}
+
+.navbar-nav > li a {
+	height: 25px;
+	color: #383838;
+	font-size: 16px;
+	padding: 2px;
+}
+
+.navbar-nav > li a:hover, a.active {
+	border-bottom: 2px solid #ba5454;
+	background:#FFFFFF;
+}
+
+/*
+ * Banner
+ */
+.banner {
+	height: 460px;
+	background: #fafaf6;
+}
+
+.banner .main {
+	width: 900px;
+	height: 435px;
+	background: url(../images/banner_bg.jpg) no-repeat;
+	margin: 0 auto;
+}
+
+.carousel-indicators {
+  bottom:-50px;
+}
+
+.carousel-inner {
+   margin-bottom:50px;
+}
+
+/*
+ * Footer
+ */
+.footer {
+	height:349px;
 	background:url(../images/footer_bg.jpg) repeat-x;
+}
+
+.main {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+.icon {
+	margin-top: 40px;
+}
+
+.footer-content{
+	margin-top: 30px;
+}
+
+.row-centered {
+    text-align:center;
+}
+
+.col-centered {
+    display:inline-block;
+    float:none;
+    /* reset the text-align */
+    text-align:left;
+    /* inline-block space fix */
+    margin-right:-4px;
+}
+
+.tel {
+	color:#353535;
+	font-size:20px;
+}
+
+.leagal {
+	margin-top: 15px;
+	
 }

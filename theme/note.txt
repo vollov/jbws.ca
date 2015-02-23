@@ -1,0 +1,85 @@
+.head {
+	position: fixed;
+	width: 100%;
+	height: 86px;
+	left: 0;
+	top: 0;
+	z-index: 9999;
+	background: url(../images/head_bg.jpg) repeat-x;
+	display: block;
+	overflow: hidden;
+}
+
+.logo {
+	float: left;
+	width: 146px;
+	height: 86px;
+	padding: 0 0 0 4px;
+	display: block;
+	overflow: hidden;
+}
+
+.nav {
+	float: left;
+	width: 775px;
+	height: 40px;
+	padding: 10px 25px 46px 0;
+	display: block;
+	overflow: hidden;
+}
+
+.nav ul {
+	float: right;
+	height: 30px;
+	display: block;
+}
+
+.nav ul li {
+	float: left;
+	height: 30px;
+	padding: 0 0 0 50px;
+	display: block;
+	position: relative;
+}
+
+.nav ul li a {
+	height: 24px;
+	color: #383838;
+	font-size: 16px;
+	display: block;
+}
+
+.nav ul li a:hover {
+	border-bottom: 2px solid #ba5454;
+}
+
+.nav ul li a.on {
+	border-bottom: 2px solid #ba5454;
+}
+
+.nav ul li:hover .sub {
+	display: block;
+}
+
+
+//////////////////////////////////////////
+
+
+	<div class="header">
+			<div class="main">
+			    <div class="logo">
+			    	<a href=""><img src="images/logo.jpg" border="0" alt="加宝万盛-加拿大最大的月子中心，多伦多最受妈咪欢迎的月子会所"></a>
+			    </div>
+	    		<div class="nav">
+					<ul>
+						<li><a href="" class="on">首页</a></li>
+						<li><a href="service/">加宝服务</a></li>
+						<li><a href="mother/">妈妈见证</a></li>
+						<li><a href="advantage/">我们的优势</a></li>
+						<li><a href="about/">关于加宝</a></li>
+						<!--<li><a href="news/index.html">热点资讯</a></li>-->
+					</ul>
+				</div>
+			    <div class="clear"></div>
+			  </div>
+		</div>
