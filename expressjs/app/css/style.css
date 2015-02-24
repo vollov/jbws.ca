@@ -737,6 +737,64 @@ body{width:100%;background-color:#FFFFFF;}
 .footlinks {clear:both;margin:0px auto;padding:0px;height:auto;font-size:9pt;line-height:140%;color:#888;text-align:center;}
 .footlinks a:link, .footlinks a:visited {font-size:9pt;line-height:140%;color:#888;}
 
+/*
+ * advantage page
+ */
+.advantage {float:left;width:100%;display:block;overflow:hidden;}
+ 
+.advantage .one {
+	padding: 20px 0 0px 0;
+}
 
+.advantage .one .title,
+.service .one .title {
+	width: 690px;
+	height: 60px;
+	color: #a0d7dc;
+	font-size: 32px;
+	font-weight: bold;
+	display: block;
+}
 
+.service .one .main .ptxt,
+.advantage .one .main .txt {
+	padding-bottom: 20px;
+	border-bottom: 1px solid #eaeaea;
+}
 
+.service .one .main .ptxt p,
+.advantage .one .main p {
+	color: #9a9a9a;
+	line-height: 28px;
+	font-size: 16px;
+}
+
+.space-20 {
+	height: 30px;
+}
+
+.service .one .text-3 {
+	float: left;
+	
+	width: 280px;
+	padding-right: 32px;
+	/*display: block;
+	overflow: hidden;*/
+}
+
+.service .one .text-3 .list-title {
+	float: left;
+	color: #e0d8c0;
+	font-size: 32px;
+	padding-bottom: 10px;
+	font-weight: bold;
+	display: block;
+}
+
+.service .one .main .text-3 .list ul li {
+	float: left;
+	color: #9a9a9a;
+	line-height: 28px;
+	font-size: 16px;
+	display: block;
+}

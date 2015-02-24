@@ -83,3 +83,33 @@
 			    <div class="clear"></div>
 			  </div>
 		</div>
+		
+		///////////////////////////
+		
+			<table class="table table-bordered">
+      <thead>
+        <tr>
+          <th>普通旅游保险</th>
+          <th>高端旅游保险</th>
+          <th>顶级旅游保险</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          
+          <td>
+          	<ol>
+          		<li>1. 只接受正常健康人保险!</li>
+          		<li>2. 不接受孕妇旅游保险!</li>
+          		<li>3. 保费便宜，保额较低!</li>
+          		<li>4. 赔偿金低，赔偿条件简单！</li>
+          	</ol>
+          
+          
+          </td>
+          <td>Otto</td>
+          <td>@mdo</td>
+        </tr>
+        
+      </tbody>
+    </table>
