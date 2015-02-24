@@ -37,6 +37,9 @@ app.get('/about', function(req,res){
 	  res.sendfile('about.html', { root: path.resolve(__dirname + '/app') });
 });
 
+app.get('/sitemap', function(req,res){
+	  res.sendfile('map.html', { root: path.resolve(__dirname + '/app') });
+});
 app.get('/advantage', function(req,res){
 	  res.sendfile('advantage.html', { root: path.resolve(__dirname + '/app') });
 });
