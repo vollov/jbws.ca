@@ -42,9 +42,9 @@ body{width:100%;background-color:#FFFFFF;}
 
 .pagelist a{padding:2px 6px;color:#BBBBBB;border:1px solid #BBBBBB;margin:0 5px 0 0;display:inline;}
 
-.pagelist a:hover{color:#FFFFFF;background:#959595;}
+.pagelist a:hover{color:#FFFFFF;background:#000000;}
 
-.pagelist a.on{color:#FFFFFF;background:#959595;}
+.pagelist a.on{color:#FFFFFF;background:#000000;}
 
 /*********************/
 
@@ -137,9 +137,9 @@ body{width:100%;background-color:#FFFFFF;}
 
 .index .one .box .txt .t a{color:#323232;}
 
-.index .one .box .txt .c{float:left;width:240px;color:#959595;height:110px;line-height:22px;display:block;overflow:hidden;}
+.index .one .box .txt .c{float:left;width:240px;color:#000000;height:110px;line-height:22px;display:block;overflow:hidden;}
 
-.index .one .box .txt .c a{color:#959595;}
+.index .one .box .txt .c a{color:#000000;}
 
 .index .one .box .txt .c a:hover{text-decoration:underline;}
 
@@ -302,9 +302,9 @@ body{width:100%;background-color:#FFFFFF;}
 
 .about .fiv .t{float:left;width:490px;height:40px;color:#454545;font-size:24px;font-weight:bolddisplay:block;overflow:hidden;}
 
-.about .fiv .c{float:left;width:490px;line-height:22px;color:#959595;font-size:14px;display:block;overflow:hidden;}
+.about .fiv .c{float:left;width:490px;line-height:22px;color:#000000;font-size:14px;display:block;overflow:hidden;}
 
-.about .fiv .c p{line-height:22px;color:#959595;font-size:14px;}
+.about .fiv .c p{line-height:22px;color:#000000;font-size:14px;}
 
 /*********************/
 
@@ -318,15 +318,15 @@ body{width:100%;background-color:#FFFFFF;}
 
 .service .one .text{float:left;width:470px;display:block;overflow:hidden;}
 
-.service .one .text .t{float:left;width:470px;color:#e0d8c0;font-size:32px;font-weight:bold;text-align:center;display:block;}
+.service .one .text .t{float:left;width:470px;color:#000000;font-size:32px;font-weight:bold;text-align:center;display:block;}
 
-.service .one .text .c{float:left;width:350px;padding:10px 60px 0 60px;color:#a9a9a9;font-size:14px;line-height:24px;text-align:center;display:block;}
+.service .one .text .c{float:left;width:350px;padding:10px 60px 0 60px;color:#000000;font-size:14px;line-height:24px;text-align:center;display:block;}
 
-.service .one .text .c p{color:#a9a9a9;font-size:14px;line-height:24px;text-align:center;}
+.service .one .text .c p{color:#000000;font-size:14px;line-height:24px;text-align:center;}
 
-.service .one .text .d{float:left;width:410px;padding:10px 30px 0 30px;color:#a9a9a9;font-size:14px;line-height:24px;text-align:center;display:block;}
+.service .one .text .d{float:left;width:410px;padding:10px 30px 0 30px;color:#000000;font-size:14px;line-height:24px;text-align:center;display:block;}
 
-.service .one .text .d p{color:#a9a9a9;font-size:14px;line-height:24px;text-align:center;}
+.service .one .text .d p{color:#000000;font-size:14px;line-height:24px;text-align:center;}
 
 .service .two{float:left;width:100%;height:172px;padding:0 0 40px 0;display:block;overflow:hidden;}
 
@@ -344,11 +344,11 @@ body{width:100%;background-color:#FFFFFF;}
 
 .service .thr .text{float:left;width:470px;display:block;overflow:hidden;}
 
-.service .thr .text .t{float:left;width:470px;color:#e0d8c0;font-size:32px;font-weight:bold;text-align:center;display:block;}
+.service .thr .text .t{float:left;width:470px;color:#000000;font-size:32px;font-weight:bold;text-align:center;display:block;}
 
-.service .thr .text .c{float:left;width:426px;padding:10px 22px 0 22px;color:#a9a9a9;font-size:14px;line-height:24px;display:block;}
+.service .thr .text .c{float:left;width:426px;padding:10px 22px 0 22px;color:#000000;font-size:14px;line-height:24px;display:block;}
 
-.service .thr .text .c p{color:#a9a9a9;line-height:24px;font-size:14px;}
+.service .thr .text .c p{color:#000000;line-height:24px;font-size:14px;}
 
 .service .thr .list{float:left;width:940px;height:194px;padding:40px 0 0 0;display:block;overflow:hidden;}
 
@@ -366,11 +366,11 @@ body{width:100%;background-color:#FFFFFF;}
 
 .service .fou .text{float:left;width:940px;display:block;overflow:hidden;}
 
-.service .fou .text .t{float:left;width:940px;color:#e0d8c0;font-size:32px;font-weight:bold;text-align:center;display:block;}
+.service .fou .text .t{float:left;width:940px;color:#000000;font-size:32px;font-weight:bold;text-align:center;display:block;}
 
-.service .fou .text .c{float:left;width:500px;padding:10px 220px 0 220px;color:#a9a9a9;font-size:14px;line-height:24px;text-align:center;display:block;}
+.service .fou .text .c{float:left;width:500px;padding:10px 220px 0 220px;color:#000000;font-size:14px;line-height:24px;text-align:center;display:block;}
 
-.service .fou .text .c p{color:#a9a9a9;line-height:24px;text-align:center;font-size:14px;}
+.service .fou .text .c p{color:#000000;line-height:24px;text-align:center;font-size:14px;}
 
 .service .fiv{float:left;width:100%;height:222px;padding:0 0 40px 0;display:block;overflow:hidden;}
 
@@ -422,7 +422,7 @@ body{width:100%;background-color:#FFFFFF;}
 
 .service .nin .a .l .t .c{float:left;width:640px;padding:0 0 0 50px;color:#9a9a9a;line-height:28px;font-size:16px;display:block;overflow:hidden;}
 
-.service .nin .a .l .t .c p{color:#9a9a9a;line-height:28px;font-size:16px;}
+.service .nin .a .l .t .c p{color:#000000;line-height:28px;font-size:16px;}
 
 .service .nin .a .r{float:right;width:160px;height:324px;padding:20px 0 0 0;text-align:right;display:block;overflow:hidden;}
 
@@ -442,7 +442,7 @@ body{width:100%;background-color:#FFFFFF;}
 
 .service .nin .b .r .t .c{float:left;width:640px;height:56px;padding:0 0 0 50px;color:#9a9a9a;line-height:28px;font-size:16px;display:block;overflow:hidden;}
 
-.service .nin .b .r .t .c p{color:#9a9a9a;line-height:28px;font-size:16px;}
+.service .nin .b .r .t .c p{color:#000000;line-height:28px;font-size:16px;}
 
 .service .nin .b .r .p{float:left;width:690px;height:243px;padding:32px 0 0 0;text-align:right;display:block;overflow:hidden;}
 
@@ -518,7 +518,7 @@ body{width:100%;background-color:#FFFFFF;}
 
 .mother .one .tite .ctxt{float:left;width:690px;color:#838383;line-height:24px;font-size:14px;text-align:center;padding:10px 0 0 0;display:block;overflow:hidden;}
 
-.mother .one .tite .ctxt p{color:#838383;line-height:24px;font-size:14px;text-align:center;}
+.mother .one .tite .ctxt p{color:#000000;line-height:24px;font-size:14px;text-align:center;}
 
 .mother .one .slideBox{float:left;width:600px;height:705px;padding:45px 45px 10px 45px;display:block;overflow:hidden;}
 
@@ -536,11 +536,11 @@ body{width:100%;background-color:#FFFFFF;}
 
 .mother .one .slideBox .love .bd ul li .txt{float:left;width:550px;height:225px;padding:15px 0 0 0;display:block;overflow:hidden;}
 
-.mother .one .slideBox .love .bd ul li .txt .t{float:left;width:550px;height:25px;color:#8e8e8e;line-height:25px;font-weight:bold;display:block;overflow:hidden;}
+.mother .one .slideBox .love .bd ul li .txt .t{float:left;width:550px;height:25px;color:#000000;line-height:25px;font-weight:bold;display:block;overflow:hidden;}
 
-.mother .one .slideBox .love .bd ul li .txt .c{float:left;width:550px;height:2005px;color:#8e8e8e;line-height:20px;display:block;overflow:hidden;}
+.mother .one .slideBox .love .bd ul li .txt .c{float:left;width:550px;height:2005px;color:#000000;line-height:20px;display:block;overflow:hidden;}
 
-.mother .one .slideBox .love .bd ul li .txt .c p{color:#8e8e8e;line-height:20px;}
+.mother .one .slideBox .love .bd ul li .txt .c p{color:#000000;line-height:20px;}
 
 .mother .one .slideBox .love .prev{position:absolute;width:20px;height:37px;left:0px;top:230px;background:url(../images/mother/love_prev.jpg) no-repeat;display:block;overflow:hidden;}
 
@@ -570,7 +570,7 @@ body{width:100%;background-color:#FFFFFF;}
 
 .mother .thr .main .case .bd ul li .txt .l{float:left;width:200px;height:288px;display:block;overflow:hidden;}
 .mother .thr .main .case .bd ul li .txt .l img{width:200px;}
-.mother .thr .main .case .bd ul li .txt .r{float:right;width:650px;height:288px;color:#808080;line-height:24px;font-size:12px;display:block;overflow:hidden;}
+.mother .thr .main .case .bd ul li .txt .r{float:right;width:650px;height:288px;color:#000000;line-height:24px;font-size:12px;display:block;overflow:hidden;}
 .mother .thr .main .case .bd ul li .txt .r p{color:#808080;line-height:24px;font-size:12px;}
 
 .mother .thr .main .case .dd{float:left;width:240px;height:50px;padding:10px 330px;display:block;overflow:hidden;}
@@ -635,9 +635,9 @@ body{width:100%;background-color:#FFFFFF;}
 
 .news .list ul li .txt .t{float:left;width:480px;height:24px;padding:0 0 6px 0;color:#3F3F3F;font-size:16px;border-bottom:1px solid #EBEBEB;display:block;overflow:hidden;}
 
-.news .list ul li .txt .c{float:left;width:480px;height:192px;padding:9px 0 0 0;color:#959595;line-height:24px;font-size:14px;display:block;overflow:hidden;}
+.news .list ul li .txt .c{float:left;width:480px;height:192px;padding:9px 0 0 0;color:#000000;line-height:24px;font-size:14px;display:block;overflow:hidden;}
 
-.news .list ul li .txt .c p{color:#959595;line-height:24px;font-size:14px;}
+.news .list ul li .txt .c p{color:#000000;line-height:24px;font-size:14px;}
 
 .news .list ul li .txt .g{float:left;width:480px;height:25px;padding:0 0 0 450px;display:block;overflow:hidden;}
 
@@ -664,7 +664,7 @@ body{width:100%;background-color:#FFFFFF;}
 
 .footer{float:left;width:100%;height:350px;background:url(../images/footer_bg.jpg) repeat-x;display:block;overflow:hidden;}
 
-.footer .main{width:940px;margin:0 auto;}
+.footer .main{width:980px;margin:0 auto;}
 
 .footer .icon{float:left;width:240px;height:70px;padding:20px 350px;display:block;overflow:hidden;}
 
@@ -685,7 +685,7 @@ body{width:100%;background-color:#FFFFFF;}
 
 
 /*.footer .foot{float:left;width:560px;height:160px;padding:18px 130px;display:block;overflow:hidden;}*/
-.footer .foot{float:left;width:940px;height:200px;padding:18px 40px;display:block;overflow:hidden;}
+.footer .foot{float:left;width:980px;height:200px;padding:10px 10px;display:block;overflow:hidden;}
 
 /*.footer .foot .pic{float:left;width:160px;height:160px;display:block;overflow:hidden;}*/
 .footer .foot .pic{width:222px;height:200px;display:inline-block;overflow:hidden;margin-right:10px;}
@@ -698,8 +698,8 @@ body{width:100%;background-color:#FFFFFF;}
 
 .footer .foot .pic2 img{width:150px;height:130px;margin:10px 0;}
 
-.footer .foot .pic3 {width:150px;height:150px; display:inline-block;}
-.footer .foot .pic3 img{width:140px;height:140px;margin:30px 0;}
+.footer .foot .pic3 {width:180px;height:180px; display:inline-block;}
+.footer .foot .pic3 img{width:180px;height:180px;margin:20px 0;}
 
 /*.footer .foot .txt{float:right;width:380px;height:160px;display:block;overflow:hidden;}*/
 .footer .foot .txt{width:340px;height:200px;display:inline-block;overflow:hidden;}
@@ -712,13 +712,13 @@ body{width:100%;background-color:#FFFFFF;}
 
 .footer .foot .txt .address{float:left;width:340px;height:20px;line-height:20px;font-size:14px;padding:5px 0 10px 0;display:block;overflow:hidden;}
 
-.footer .foot .txt .info{float:left;width:340px;height:80px;line-height:20px;color:#979797;display:block;overflow:hidden;}
+.footer .foot .txt .info{float:left;width:340px;height:80px;line-height:20px;color:#000000;display:block;overflow:hidden;}
 
 
 
-.footer .copy{float:left;width:940px;height:44px;line-height:44px;color:#252525;text-align:center;display:block;overflow:hidden;}
+.footer .copy{float:left;width:940px;height:24px;line-height:24px;color:#252525;text-align:center;display:block;overflow:hidden;}
 
-.footer .copy p{line-height:48px;color:#252525;text-align:center;}
+.footer .copy p{line-height:24px;color:#252525;text-align:center;}
 
 /*********************/
 
@@ -764,7 +764,7 @@ body{width:100%;background-color:#FFFFFF;}
 
 .service .one .main .ptxt p,
 .advantage .one .main p {
-	color: #9a9a9a;
+	/* color: #9a9a9a; */
 	line-height: 28px;
 	font-size: 16px;
 }
@@ -784,7 +784,7 @@ body{width:100%;background-color:#FFFFFF;}
 
 .service .one .text-3 .list-title {
 	float: left;
-	color: #e0d8c0;
+	color: #000000;
 	font-size: 32px;
 	padding-bottom: 10px;
 	font-weight: bold;
@@ -793,7 +793,7 @@ body{width:100%;background-color:#FFFFFF;}
 
 .service .one .main .text-3 .list ul li {
 	float: left;
-	color: #9a9a9a;
+	color: #000000;
 	line-height: 28px;
 	font-size: 16px;
 	display: block;
