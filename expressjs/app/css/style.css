@@ -762,15 +762,28 @@ body{width:100%;background-color:#FFFFFF;}
 	border-bottom: 1px solid #eaeaea;
 }
 
+
 .service .one .main .ptxt p,
 .advantage .one .main p {
-	/* color: #9a9a9a; */
+	color: #000000;
 	line-height: 28px;
 	font-size: 16px;
 }
 
+.advantage .one .main ol li a {
+	color: #000000;
+	line-height: 28px;
+	font-size: 16px;
+	border-bottom: 1px solid #ba5454;
+}
+
+.advantage .one .main ol li a:hover, a.active {
+	color: #ba5454;;
+	background:#FFFFFF;
+}
+
 .space-20 {
-	height: 30px;
+	height: 20px;
 }
 
 .service .one .text-3 {
